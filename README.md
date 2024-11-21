@@ -58,6 +58,8 @@ From the Welcome page, find the `WMS 1.3.0` box. Right click on the `1.3.0` link
 Note the URL. 
 #### Q1: What is the URL of the WMS GetCapabilities request?
 
+https://super-duper-space-yodel-564g6xqjxvhw5p-8080.app.github.dev/geoserver/ows?service=WMS&version=1.3.0&request=GetCapabilities
+
 You’ll need this. Click Submit. Look at the result. Hard to read, right? Copy the URL and paste it into another window in your browser. 
 
 ![image21.png](./media/image21.png)
@@ -155,6 +157,8 @@ Once you have saved the changes to the Archaelogical Sites layer, use the Layer 
 ![image15.png](./media/image15.png)
 
 #### Q3: Submit a screenshot of your updated WFS Layer Preview
+
+Uploaded WFS_Layer_Preview.png
 
 #### Layer Groups
 So far we have looked at layers individually, but sometimes it makes sense to render layers together, such as layers and special labels, or perhaps a full cartographic product with a background hillshade blended with aerial photography and covered with roads and political boundaries. In this case we may want to use a Layer Group.
