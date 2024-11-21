@@ -58,8 +58,6 @@ From the Welcome page, find the `WMS 1.3.0` box. Right click on the `1.3.0` link
 Note the URL. 
 #### Q1: What is the URL of the WMS GetCapabilities request?
 
-https://super-duper-space-yodel-564g6xqjxvhw5p-8080.app.github.dev/geoserver/ows?service=WMS&version=1.3.0&request=GetCapabilities
-
 You’ll need this. Click Submit. Look at the result. Hard to read, right? Copy the URL and paste it into another window in your browser. 
 
 ![image21.png](./media/image21.png)
