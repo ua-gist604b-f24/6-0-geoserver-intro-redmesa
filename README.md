@@ -156,8 +156,6 @@ Once you have saved the changes to the Archaelogical Sites layer, use the Layer 
 
 #### Q3: Submit a screenshot of your updated WFS Layer Preview
 
-Uploaded WFS_Layer_Preview.png
-
 #### Layer Groups
 So far we have looked at layers individually, but sometimes it makes sense to render layers together, such as layers and special labels, or perhaps a full cartographic product with a background hillshade blended with aerial photography and covered with roads and political boundaries. In this case we may want to use a Layer Group.
 
